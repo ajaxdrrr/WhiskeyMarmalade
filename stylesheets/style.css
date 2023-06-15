@@ -388,6 +388,11 @@ p, a, button, h1, h2, h3, h4, h5, button {
     transition: transform 0.3s ease;
 }
 
+.choose {
+
+    background-color: #000;
+
+}
 
 /* play button custom */
 .play-button {
