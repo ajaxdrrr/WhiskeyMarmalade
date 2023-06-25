@@ -244,13 +244,8 @@ p, a, button, h1, h2, h3, h4, h5, button {
 .main-background {
     background-color: #111111;
 }
-.hero-container {
-    margin-top: 190px;
-}
 .main-sub {
     position: relative;
-    top: 150px;
-    padding: 0 40px 0 40px;
 }
 
 .image-container {
@@ -469,8 +464,8 @@ p, a, button, h1, h2, h3, h4, h5, button {
 
 .about-img-container {
 
-    width: 800px;
-    height: 700px;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
 
 }
